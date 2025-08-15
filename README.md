@@ -10,7 +10,9 @@ MCP Server for the CoinStats API. Provides access to cryptocurrency market data,
 
 ### API Key
 
-You need a CoinStats API key. Obtain one from the [CoinStats API Documentation](https://openapi.coinstats.app).
+You need a CoinStats API key. Obtain one from the [CoinStats API Dashboard](https://openapi.coinstats.app).
+Read [API docs](https://coinstats.app/api-docs).
+
 
 ### Usage with MCP clients
 
