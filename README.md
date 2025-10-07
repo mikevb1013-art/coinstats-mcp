@@ -34,14 +34,14 @@ Add the following to your client configuration:
         "@coinstats/coinstats-mcp"
       ],
       "env": {
-        "COINSTATS_API_KEY": "<YOUR_API_KEY>"
+        "COINSTATS_API_KEY": "<gTizWpUTJhZjZ4KnOulbzCInRloEXRo7zmCYD8kAJKU=>"
       }
     }
   }
 }
 ```
 
-Replace `<YOUR_API_KEY>` with your actual CoinStats API key.
+Replace `<YOUR_API_EY>` with your actual CoinStats API key.
 
 #### Docker
 
@@ -59,14 +59,14 @@ Replace `<YOUR_API_KEY>` with your actual CoinStats API key.
         "coinstats/coinstats-mcp"
       ],
       "env": {
-        "COINSTATS_API_KEY": "<YOUR_API_KEY>"
+        "COINSTATS_API_KEY": "<gTizWpUTJhZjZ4KnOulbzCInRloEXRo7zmCYD8kAJKU=>"
       }
     }
   }
 }
 ```
 
-Replace `<YOUR_API_KEY>` with your actual CoinStats API key.
+Replace `<gTizWpUTJhZjZ4KnOulbzCInRloEXRo7zmCYD8kAJKU=>` with your actual CoinStats API key.
 
 ## Build
 
